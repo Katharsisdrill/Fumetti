@@ -7,7 +7,7 @@
 
 <img class="tekstside" src="images/other/katharsisdrill.png">
 
-<p>The comic about <em>Phill from GCHQ</em> is not only free to look at, it is <?php echo '<a href="http://eurobeast.dk/phillfromgchq/?phill=' . $phill . '&pa=about&la=' . $la . '#cc">'; ?> as free as it gets</a> ...But, it does take some time to think up, plan, draw, text, proofread, and publish...</p>
+<p>The comic about <em>Phill from GCHQ</em> is not only free to look at, it is <?php echo '<a href="' . $domain . '?phill=' . $phill . '&pa=about&la=' . $la . '#cc">'; ?> as free as it gets</a> ...But, it does take some time to think up, plan, draw, text, proofread, and publish...</p>
 
 <p>Below are some options to support the work with normal money or the internet-money known as crypto-currencies. If you have suggestions to other platforms with artists payment that is not present and that you would like to use, write to this email and propose it: <a href="mailto:katharsisdrill@phillfromgchq.co.uk"> katharsisdrill@phillfromgchq.co.uk</a></p>
 
@@ -42,5 +42,5 @@
 <div class="spacer"></div>
 <h2>Sharing</h2>
 
-<p>If you do not have any bitcoins and don't want to sign up on Liberapay it will also be supportive to reshare this site on the many platforms of the internet. You can also comment and reshare on some of the social media platforms where Katharsisdrill is present: <?php echo '<a href="http://eurobeast.dk/phillfromgchq/?phill=' . $phill . '&pa=about&la=' . $la . '#sm">'; ?>Look here</a>.</p>
+<p>If you do not have any bitcoins and don't want to sign up on Liberapay it will also be supportive to reshare this site on the many platforms of the internet. You can also comment and reshare on some of the social media platforms where Katharsisdrill is present: <?php echo '<a href="' . $domain . '?phill=' . $phill . '&pa=about&la=' . $la . '#sm">'; ?>Look here</a>.</p>
 </div>
