@@ -9,7 +9,7 @@ The site has the following folders:
 
 /images/pages - contains the folders where the translated comic pages are placed.
 
-/images/pages/xx - Each language has a folder where xx is a country-id (en-english, ge-german etc). These contains the comic pages with files named in this way:  xx-<title>.XXX (XXX is image format)
+/images/pages/xx - Each language has a folder where xx is a country-id (en-english, ge-german etc). These contains the comic pages with files named in this way:  xx-<title>.XXX (xx is a number and XXX is an image format like jpg or png)
   
 /images/menu - contatins menu images in the available languages.
 
